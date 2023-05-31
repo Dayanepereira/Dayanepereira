@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cca3&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Dayane+Pereira;Tenho+19+anos;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<div align="left">
+<div align="center">
  • 👩‍💻 Atualmente trabalhando na NTL como Aprendiz de desenvolvimento <br>
  • 💻 Estudante de Análise e desenvolvimento de sistemas 
  </div>
  <br>
-  <div>
+  <div align="center">
   <a href="https://github.com/Dayane18">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Dayane18&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/>
-  <img height="140em" aligh="center" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane18&layout=compact&langs_count=7&theme=gotham&border_color=0c1a25&border_radius=10"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=Dayane18&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/>
+  <img height="150cm" aligh="center" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayane18&layout=compact&langs_count=7&theme=gotham&border_color=0c1a25&border_radius=10"/>
 </div>
  <br>
  <img height="150" width="250" align="right"  src="https://i.pinimg.com/originals/b7/6b/0c/b76b0c74423a8adf0c66d21dc1160ff9.gif">
