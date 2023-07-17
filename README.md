@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cca3&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Dayane+Pereira;Tenho+19+anos;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
- • 👩‍💻 Atualmente trabalhando na NTL como Aprendiz de desenvolvimento <br>
+ • 👩‍💻 Em busca de novas oportunidades <br>
  • 💻 Estudante de Análise e desenvolvimento de sistemas 
  </div>
  <br>
