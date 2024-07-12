@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Oii, eu sou a Dayane</h1>
+<h1 align="left" id="macropower-title">:wave: Oii, eu sou a Dayane :)</h1>
 
 <a href="#dereknguyen269-title">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanepereira&layout=donut&theme=catppuccin_mocha" alt="Dayanepereira" align="right" />
