@@ -31,7 +31,6 @@ CONST DAYANE = {
 ![php](https://img.shields.io/badge/php-%23593d88.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-
 ### Ferramentas e Tecnologias
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -39,8 +38,6 @@ CONST DAYANE = {
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-%23646CFF.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![mongo](https://img.shields.io/badge/mongo-%2335495e.svg?style=for-the-badge&logo=mongo&logoColor=%234FC08D)
-
-
 
 
 ### Ferramentas e linguagens em desenvolvimento
@@ -53,8 +50,8 @@ CONST DAYANE = {
 <div> 
   <a href="https://instagram.com/iamdayanep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pdayane2734@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = (https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-  <a href="https://www.linkedin.com/in/dayane-herculano-pereira-18" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = (https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)></a>
+  <a href="https://www.linkedin.com/in/dayane-herculano=pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
