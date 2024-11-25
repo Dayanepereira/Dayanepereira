@@ -37,7 +37,7 @@ CONST DAYANE = {
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-%23646CFF.svg?style=for-the-badge&logo=discord&logoColor=white)
-![mongo](https://img.shields.io/badge/mongo-%2335495e.svg?style=for-the-badge&logo=mongo&logoColor=%234FC08D)
+![mongodb](https://img.shields.io/badge/mongodb-%2335495e.svg?style=for-the-badge&logo=mongodb&logoColor=%234FC08D)
 
 
 ### Ferramentas e linguagens em desenvolvimento
