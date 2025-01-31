@@ -13,9 +13,9 @@
 
 ```ruby
 CONST DAYANE = {
-  backend: ["PHP", "", ""],
-  frontend: ["HTML", "Javascript", "CSS", ""],
-  database: ["SQL Server", "MongoDB", ""]
+  backend: ["PHP", "Node js"],
+  frontend: ["HTML", "Javascript", "CSS", "React"],
+  database: ["SQL Server", "MongoDB"]
 }
 ```
 
@@ -41,7 +41,7 @@ CONST DAYANE = {
 ### Tools and languages ​​under development
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-5F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
