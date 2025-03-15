@@ -14,7 +14,7 @@
 ```ruby
 CONST DAYANE = {
   backend: ["PHP", "Node js"],
-  frontend: ["HTML", "Javascript", "CSS", "React"],
+  frontend: ["HTML", "CSS", "Javascript", "React"],
   database: ["SQL Server", "MongoDB"]
 }
 ```
@@ -47,11 +47,9 @@ CONST DAYANE = {
 
 <h3 align="left">Connect with me:</h3>
 <div> 
-  <a href="https://instagram.com/iamdayanep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/iamdayanep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/dayane-herculano-pereira18" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pdayane2734@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pdayane2734@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <a href = (https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)></a>
-
-  
 </div>
 
