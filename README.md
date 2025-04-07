@@ -6,7 +6,6 @@
 
 - :house: Rio de janeiro, RJ.
 - :computer: Cursando Analíse e Desenvolvimento de sistemas.
-- :handbag: Trabalhando como jovem aprendiz no setor de TI da ICN.
 - :blue_heart:  Apaixonada por Tecnologia e por codar
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="50"> Um pouco sobre mim ... 
@@ -48,8 +47,8 @@ CONST DAYANE = {
 <h3 align="left">Connect with me:</h3>
 <div> 
   <a href="https://instagram.com/iamdayanep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/dayane-herculano-pereira18" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pdayane2734@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/dayane-herculano-pereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dayanedev27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <a href = (https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)></a>
 </div>
 
